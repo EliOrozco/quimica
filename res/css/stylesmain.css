@@ -1,0 +1,26 @@
+* {
+    font-family: monospace;
+    user-select: none;
+}
+
+.cont1 {
+    background-color: #fff;
+    max-width: fit-content;
+    margin: auto;
+}
+
+.center-txt {
+    text-align: center;
+}
+
+.center-cont {
+    max-width: fit-content;
+    margin: auto;
+}
+
+body {
+    background-image: url("../media/testhd.jpg");
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: fixed;
+}
