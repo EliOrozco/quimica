@@ -1,5 +1,9 @@
 //Actualizar barra de progreso
-window.onscroll = function() {updateProgressBar()};
+window.onscroll = function() {both()};
+
+function both(){
+  updateProgressBar();
+}
 
 function updateProgressBar() {
   var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
