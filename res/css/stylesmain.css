@@ -1,6 +1,5 @@
 * {
     font-family: monospace;
-    user-select: none;
     color: #fff;
 }
 
@@ -25,7 +24,7 @@ p {
 
 .bold {
     font-weight: bold;
-    font-size: 80px;
+    font-size: 40px;
 }
 
 .center-txt {
